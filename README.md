@@ -1,5 +1,14 @@
 # papers
 
+<!-- vim-markdown-toc GFM -->
+
+* [NLP](#nlp)
+	* [Text Matching](#text-matching)
+	* [NER](#ner)
+	* [Transformer](#transformer)
+
+<!-- vim-markdown-toc -->
+
 ## NLP
 
 ### Text Matching
