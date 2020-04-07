@@ -16,6 +16,9 @@
 + &spades; [Simple and Effective Text Matching with Richer Alignment Features](https://www.aclweb.org/anthology/P19-1465.pdf)
 \[[Code](https://github.com/alibaba-edu/simple-effective-text-matching)\]
 
++ &spades; [Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring](https://arxiv.org/pdf/1905.01969.pdf)
+\[[Code](https://github.com/sfzhou5678/PolyEncoder)\]
+
 ### NER
 
 + &spades; [Distantly Supervised Named Entity Recognition using Positive-Unlabeled Learning](https://www.aclweb.org/anthology/P19-1231.pdf)
