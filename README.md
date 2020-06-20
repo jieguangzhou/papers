@@ -11,13 +11,19 @@
 
 ## NLP
 
+### Text Classification
+
+
++ &spades; [Dynamic Memory Induction Networks for Few-Shot Text Classification](https://arxiv.org/pdf/2005.05727.pdf)
+
 ### Text Matching
 
-+ &spades; [Simple and Effective Text Matching with Richer Alignment Features](https://www.aclweb.org/anthology/P19-1465.pdf)
-\[[Code](https://github.com/alibaba-edu/simple-effective-text-matching)\]
-
-+ &spades; [Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring](https://arxiv.org/pdf/1905.01969.pdf)
++ __Poly-encoders:__ [Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring](https://arxiv.org/pdf/1905.01969.pdf)
 \[[Code](https://github.com/sfzhou5678/PolyEncoder)\]
+
+
++ __Sentence-BERT:__ [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)
+\[[Code](https://github.com/UKPLab/sentence-transformers)\]
 
 ### NER
 
