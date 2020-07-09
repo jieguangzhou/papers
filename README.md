@@ -3,9 +3,11 @@
 <!-- vim-markdown-toc GFM -->
 
 * [NLP](#nlp)
+	* [Text Classification](#text-classification)
 	* [Text Matching](#text-matching)
 	* [NER](#ner)
 	* [Transformer](#transformer)
+		* [压缩](#压缩)
 
 <!-- vim-markdown-toc -->
 
